@@ -1,0 +1,6 @@
+model_checkpoint_path: "model_gs-10761"
+all_model_checkpoint_paths: "model_gs-4281"
+all_model_checkpoint_paths: "model_gs-4821"
+all_model_checkpoint_paths: "model_gs-6441"
+all_model_checkpoint_paths: "model_gs-6981"
+all_model_checkpoint_paths: "model_gs-10761"
