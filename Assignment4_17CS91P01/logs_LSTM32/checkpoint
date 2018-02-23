@@ -1,0 +1,6 @@
+model_checkpoint_path: "model_gs-15120"
+all_model_checkpoint_paths: "model_gs-9720"
+all_model_checkpoint_paths: "model_gs-10800"
+all_model_checkpoint_paths: "model_gs-12960"
+all_model_checkpoint_paths: "model_gs-14580"
+all_model_checkpoint_paths: "model_gs-15120"
