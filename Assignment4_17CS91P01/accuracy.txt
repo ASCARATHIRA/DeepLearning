@@ -1,4 +1,0 @@
-Test Accuracy (50 epochs): 0.87650001
-Test Accuracy using Logistic Regression with 1st hidden layer:  0.2366
-Test Accuracy using Logistic Regression with 2nd hidden layer:  0.1323
-Test Accuracy using Logistic Regression with 3rd hidden layer:  0.1862
